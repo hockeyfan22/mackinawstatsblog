@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Mackinaw Stats"
+title = "Mackinaw Stats Blog"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
