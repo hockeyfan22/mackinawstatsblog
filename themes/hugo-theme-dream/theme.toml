@@ -14,13 +14,11 @@ min_version = "0.57.2"
   name = "Yue Yang"
   homepage = "https://github.com/g1eny0ung"
 
-# If porting an existing theme
 [original]
   name = "g1eny0ung's blog"
   homepage = "https://g1eny0ung.github.io"
   repo = "https://github.com/g1eny0ung/blog"
-
-```yaml
+  
 [params]
   author = "g1eny0ung"
   description = "g1eny0ung的生活记录～"
@@ -41,4 +39,3 @@ min_version = "0.57.2"
   favicon = "/favicon.ico"
 
   # lightMode = true
-```
