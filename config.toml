@@ -19,4 +19,31 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Twitter"
     url = "https://twitter.com/rstudio"
 
+# If porting an existing theme
+[original]
+  name = "g1eny0ung's blog"
+  homepage = "https://g1eny0ung.github.io"
+  repo = "https://github.com/g1eny0ung/blog"
 
+```yaml
+[params]
+  author = "g1eny0ung"
+  description = "g1eny0ung的生活记录～"
+  avatar = "/me/yy.jpg"
+  motto = "In My Head."
+
+  email = "g1enyy0ung@gmail.com"
+  github = "g1eny0ung"
+  linkedin = "钺杨g1eny0ung"
+  codepen = "g1eny0ung"
+  stackoverflow = "5676489/g1eny0ung"
+
+  siteStartYear = 2016
+  aboutHeader = "About"
+
+  paginate = 4
+
+  favicon = "/favicon.ico"
+
+  # lightMode = true
+```
